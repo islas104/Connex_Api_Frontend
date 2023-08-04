@@ -68,6 +68,3 @@ Online Portfolio: [http://islas-ahmed-nawaz.co.uk/)
 - [Express](https://expressjs.com/)
 - [prom-client](https://github.com/siimon/prom-client)
 - [cors](https://github.com/expressjs/cors)
-# ConnexAPI
-# API_connex
-# API_connex
